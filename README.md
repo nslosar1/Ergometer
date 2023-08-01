@@ -1,2 +1,2 @@
-# Ergometer
+# MR-Compatible Ergometer
 MR-compatible ergometer for measuring skeletal muscle contractions
